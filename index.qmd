@@ -1,5 +1,5 @@
 ---
-title: "NM2026"
+title: "Learning Diary 2026"
 ---
 
 This is a Quarto website.
